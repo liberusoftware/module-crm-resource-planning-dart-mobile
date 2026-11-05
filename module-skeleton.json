@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-resource-planning-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-resource-planning",
+  "presentation": "dart-mobile",
+  "package": "module_crm_resource_planning_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/resource-planning.md",
+  "presentationPlan": "projects/crm/features/resource-planning.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
